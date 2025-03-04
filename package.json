@@ -19,6 +19,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "expect": "^1.20.2",
+    "jest": "^29.7.0",
     "jsdom": "^9.2.0",
     "mocha": "^6.1.4",
     "mocha-jsdom": "~1.1.0",
